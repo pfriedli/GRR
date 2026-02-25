@@ -1,7 +1,7 @@
 <?php
 # Charset (jeu de caractères) utilisé dans l'en-tête des pages HTML Codage de certains caractères particuliers : &#x00DF; -> "double s" allemand http://www.unicode.org/charts/PDF/U0080.pdf
 # GRR : fichier de langue allemande
-# GRR: Traduction by: JeromeB & Karsten Schinkel & Jean-Yves Migeon & Paul Friedlio
+# GRR: Traduction by: JeromeB & Karsten Schinkel & Jean-Yves Migeon & Paul Friedli
 # Last modification : 2026-02-25
 $charset_html = "utf-8";
 $vocab = array();
